@@ -11,5 +11,15 @@
 				"noUnusedVariables": "warn"
 			}
 		}
+	},
+	"formatter": {
+		"lineWidth": 120,
+		"enabled": true
+	},
+	"javascript": {
+		"formatter": {
+			"semicolons": "always",
+			"quoteStyle": "single"
+		}
 	}
 }
